@@ -1,5 +1,5 @@
 # ATHENA
-This repository includes the code and data related to the ATHENA model for my praxis for George Washington University's Doctoral of Engineering in Cybersecurity Analytics. Included in this repository are the python code/notebook, input data, and some output files from the data engineering pipeline of the ATHENA project.  
+This repository includes the code and data related to the ATHENA model for my praxis for George Washington University's Doctoral of Engineering in Cybersecurity Analytics. Included in this repository are the python code/notebook, input data, and some output files from the data engineering pipeline of the ATHENA project.
 
 **Code:**
 * The code accesses data for ATHENA either by using APIs to the data source directly or from the retreived data sets in the 		"Input Data" folder. 
